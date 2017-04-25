@@ -4,6 +4,10 @@ DeepLearningBook.pdf
 # virtual env for this project
 .pydl
 
+# project 01 : MNIST
+project01_MNIST_digit_recognizer/data
+project01_MNIST_digit_recognizer/feedforward_MNIST_with_mxnet_Module_API.ipynb
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
